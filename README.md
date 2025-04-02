@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simone Lutero
 =====================================================================================================================================
 
-Into Full stack developer or new experiences
--------------------
+Into Full stack developer or new IT roles
+-----------------------------------------
 
 * 🌍  I'm based in Rapallo, (GE)
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/simlu2000)
