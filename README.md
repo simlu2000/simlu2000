@@ -9,8 +9,6 @@ into full stack dev
 * ✉️  You can contact me at [simone.lutero1@gmail.com](mailto:simone.lutero1@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am a little bit lunatic...but don't tell anyone
-* Now i am learning React.js
-* Actually i am doing an internship in Alten Italia (in Genoa)
 
 <a href="https://www.github.com/simlu2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/simlu2000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
